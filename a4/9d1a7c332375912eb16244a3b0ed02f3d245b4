@@ -1,0 +1,3127 @@
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00055_source.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/type_precision.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00143_source.html
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/intersect.hpp
+  cef34d8fe655bbae 1-92
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/number_precision.hpp
+  cef34d8fe655bbae 1-61
+scene/viewer/client.py
+  cef34d8fe655bbae 1-217
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00343.html
+  cef34d8fe655bbae 1-399
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double4x4.hpp
+  cef34d8fe655bbae 1-23
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00296.html
+  cef34d8fe655bbae 1-96
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00089_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_common.inl
+  cef34d8fe655bbae 1-792
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00053.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/index.html
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/noise.inl
+  cef34d8fe655bbae 1-807
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_integer_sized.cpp
+  cef34d8fe655bbae 1-216
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00046.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00147_source.html
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_9e5fe034a00e89334fd5186c3e7db156.html
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00012.html
+  cef34d8fe655bbae 1-134
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_common.hpp
+  cef34d8fe655bbae 1-135
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/nomatches.html
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00133.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00144.html
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_packing.cpp
+  cef34d8fe655bbae 1-58
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat3x4.hpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/perf_matrix_inverse.cpp
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00141_source.html
+  cef34d8fe655bbae 1-137
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00135_source.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_11.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/ext.cpp
+  cef34d8fe655bbae 1-19
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_setup_force_cxx98.cpp
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_11.js
+  cef34d8fe655bbae 1-24
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_extended_min_max.cpp
+  cef34d8fe655bbae 1-101
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00077.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/pages_0.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_ulp.hpp
+  cef34d8fe655bbae 1-112
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00170.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00288.html
+  cef34d8fe655bbae 1-1228
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00331.html
+  cef34d8fe655bbae 1-451
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int4x3_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00067.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_16.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/vec1.hpp
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/projection.inl
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_noise.cpp
+  cef34d8fe655bbae 1-7
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00176.html
+  cef34d8fe655bbae 1-108
+config_360/templates/omniblender_template.yaml
+  cef34d8fe655bbae 1-56
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/vector_query.hpp
+  cef34d8fe655bbae 1-66
+tools/parse_openmvg_bin.py
+  cef34d8fe655bbae 1-250
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00251.html
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00373.html
+  cef34d8fe655bbae 1-621
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00119.html
+  cef34d8fe655bbae 1-333
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_a.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00083_source.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00030_source.html
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/compute_vector_relational.hpp
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/test/glm.cppcheck
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00079_source.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float2x2.hpp
+  cef34d8fe655bbae 1-23
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_3.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00221.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00317.html
+  cef34d8fe655bbae 1-547
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00218.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00139.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00069.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00140_source.html
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00075.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00125.html
+  cef34d8fe655bbae 1-177
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00322.html
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_10.js
+  cef34d8fe655bbae 1-13
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00140.html
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00342.html
+  cef34d8fe655bbae 1-107
+submodules/diff-gaussian-rasterization/third_party/glm/glm/geometric.hpp
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00212.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_5.js
+  cef34d8fe655bbae 1-51
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/_features.hpp
+  cef34d8fe655bbae 1-394
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/fast_exponential.hpp
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_14.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_4.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00200_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double2x3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/range.hpp
+  cef34d8fe655bbae 1-98
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_cpp_defaulted_ctor.cpp
+  cef34d8fe655bbae 1-145
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_relational.hpp
+  cef34d8fe655bbae 1-62
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00117.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/type_precision.hpp
+  cef34d8fe655bbae 1-2094
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/fast_trigonometry.hpp
+  cef34d8fe655bbae 1-79
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00034.html
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/normalize_dot.inl
+  cef34d8fe655bbae 1-16
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00105.html
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00300.html
+  cef34d8fe655bbae 1-320
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_integer.inl
+  cef34d8fe655bbae 1-243
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_matrix_simd.inl
+  cef34d8fe655bbae 1-252
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_integer.cpp
+  cef34d8fe655bbae 1-237
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_projection.cpp
+  cef34d8fe655bbae 1-13
+config_360/self_captured/a1_nanshan_4k.yaml
+  cef34d8fe655bbae 1-56
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00209_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00351.html
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_geometric_simd.inl
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool3.hpp
+  cef34d8fe655bbae 1-18
+lpipsPyTorch/modules/lpips.py
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00120.html
+  cef34d8fe655bbae 1-153
+submodules/diff-gaussian-rasterization/third_party/glm/glm/trigonometric.hpp
+  cef34d8fe655bbae 1-210
+scripts_new/train.sh
+  cef34d8fe655bbae 1-145
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00233.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/vec3.hpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_vec3.cpp
+  cef34d8fe655bbae 1-628
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00146_source.html
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_integer.cpp
+  cef34d8fe655bbae 1-686
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_5.js
+  cef34d8fe655bbae 1-61
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00084_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/extend.hpp
+  cef34d8fe655bbae 1-42
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00126_source.html
+  cef34d8fe655bbae 1-221
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat2x2.hpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00189_source.html
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00050.html
+  cef34d8fe655bbae 1-108
+LICENSE.md
+  cef34d8fe655bbae 1-175
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00362.html
+  cef34d8fe655bbae 1-188
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float3_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00008.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00210.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/color_encoding.inl
+  cef34d8fe655bbae 1-45
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/raw_data.hpp
+  cef34d8fe655bbae 1-51
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_compiler_unknown.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00231.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_exponential.cpp
+  cef34d8fe655bbae 1-87
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_noise.cpp
+  cef34d8fe655bbae 1-86
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_1.js
+  cef34d8fe655bbae 1-22
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_trigonometric.cpp
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_matrix_access.cpp
+  cef34d8fe655bbae 1-383
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec1.hpp
+  cef34d8fe655bbae 1-308
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_14.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_handed_coordinate_space.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_0.js
+  cef34d8fe655bbae 1-179
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_rotate_vector.cpp
+  cef34d8fe655bbae 1-77
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00215.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_14.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/cuda_rasterizer/rasterizer_impl.cu
+  cef34d8fe655bbae 1-661
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_common.inl
+  cef34d8fe655bbae 1-34
+scene/viewer/ui/render_panel.py
+  cef34d8fe655bbae 1-827
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00035_source.html
+  cef34d8fe655bbae 1-1544
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_10.js
+  cef34d8fe655bbae 1-50
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_quat.inl
+  cef34d8fe655bbae 1-412
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00045_source.html
+  cef34d8fe655bbae 1-280
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00286.html
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_8.js
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_transform.hpp
+  cef34d8fe655bbae 1-47
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_wrap.cpp
+  cef34d8fe655bbae 1-191
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_d.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_operation.cpp
+  cef34d8fe655bbae 1-86
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00040.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00081_source.html
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00271.html
+  cef34d8fe655bbae 1-115
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00164_source.html
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00059_source.html
+  cef34d8fe655bbae 1-327
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00159.html
+  cef34d8fe655bbae 1-153
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00072_source.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00216_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00206_source.html
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00056.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00228.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_12.js
+  cef34d8fe655bbae 1-97
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_c.js
+  cef34d8fe655bbae 1-24
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_6.html
+  cef34d8fe655bbae 1-26
+config_360/self_captured/a1_bijiashan_3_4k.yaml
+  cef34d8fe655bbae 1-57
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_interpolation.hpp
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/integer.h
+  cef34d8fe655bbae 1-115
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int3x3_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_6b66465792d005310484819a0eb0b0d3.html
+  cef34d8fe655bbae 1-403
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00085_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00355.html
+  cef34d8fe655bbae 1-209
+scene/viewer/__init__.py
+  cef34d8fe655bbae 1-2
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00059.html
+  cef34d8fe655bbae 1-282
+utils/log_utils.py
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_common.cpp
+  cef34d8fe655bbae 1-236
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double4x4_precision.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00138_source.html
+  cef34d8fe655bbae 1-185
+train_viewer.py
+  cef34d8fe655bbae 1-306
+submodules/diff-gaussian-rasterization/third_party/glm/doc/theme/doxygen.css
+  cef34d8fe655bbae 1-1496
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat2x3.inl
+  cef34d8fe655bbae 1-510
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_factorisation.cpp
+  cef34d8fe655bbae 1-105
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_scalar_relational.cpp
+  cef34d8fe655bbae 1-174
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool1.hpp
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool4_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00352.html
+  cef34d8fe655bbae 1-622
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_cef2d71d502cb69a9252bca2297d9549.html
+  cef34d8fe655bbae 1-177
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_6.js
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00364.html
+  cef34d8fe655bbae 1-7945
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00048_source.html
+  cef34d8fe655bbae 1-110
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/_noise.hpp
+  cef34d8fe655bbae 1-81
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/vector_query.inl
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/README.md
+  cef34d8fe655bbae 1-19
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00208.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_16.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_packing.hpp
+  cef34d8fe655bbae 1-32
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/reciprocal.hpp
+  cef34d8fe655bbae 1-24
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00011_source.html
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/type_trait.hpp
+  cef34d8fe655bbae 1-85
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint2x2_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_mixed_product.cpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00188_source.html
+  cef34d8fe655bbae 1-134
+render_pano_lod.py
+  cef34d8fe655bbae 1-433
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00108.html
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00295.html
+  cef34d8fe655bbae 1-173
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_relational.cpp
+  cef34d8fe655bbae 1-205
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/gradient_paint.inl
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double4x2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_string_cast.cpp
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00192_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat2x2.hpp
+  cef34d8fe655bbae 1-177
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_int_sized.cpp
+  cef34d8fe655bbae 1-43
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00257.html
+  cef34d8fe655bbae 1-218
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00021_source.html
+  cef34d8fe655bbae 1-224
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_1.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00026_source.html
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00045.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00246.html
+  cef34d8fe655bbae 1-576
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00027_source.html
+  cef34d8fe655bbae 1-449
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_12.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint4.hpp
+  cef34d8fe655bbae 1-18
+render_large.py
+  cef34d8fe655bbae 1-205
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_8.js
+  cef34d8fe655bbae 1-93
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/normal.inl
+  cef34d8fe655bbae 1-15
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_inline.cpp
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_9.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/_vectorize.hpp
+  cef34d8fe655bbae 1-162
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec4.inl
+  cef34d8fe655bbae 1-1142
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/scalar_relational.hpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00185_source.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00065.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/LICENSE.md
+  cef34d8fe655bbae 1-83
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_io.cpp
+  cef34d8fe655bbae 1-186
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_7.js
+  cef34d8fe655bbae 1-200
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00148.html
+  cef34d8fe655bbae 1-112
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00098.html
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_load.cpp
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00189.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00326.html
+  cef34d8fe655bbae 1-181
+data_partition.py
+  cef34d8fe655bbae 1-703
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00159_source.html
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec3.hpp
+  cef34d8fe655bbae 1-435
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00028_source.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00290.html
+  cef34d8fe655bbae 1-697
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_d.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_relational.cpp
+  cef34d8fe655bbae 1-106
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_relational.hpp
+  cef34d8fe655bbae 1-107
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int2x3_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00013.html
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_matrix_transform.cpp
+  cef34d8fe655bbae 1-55
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00179.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_c.js
+  cef34d8fe655bbae 1-27
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_major_storage.hpp
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_matrix_integer.cpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_type_precision.cpp
+  cef34d8fe655bbae 1-1041
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00033_source.html
+  cef34d8fe655bbae 1-152
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_d.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int4x3.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/test/bug/CMakeLists.txt
+  cef34d8fe655bbae 1
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_perpendicular.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat4x4.cpp
+  cef34d8fe655bbae 1-218
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00156.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00104_source.html
+  cef34d8fe655bbae 1-175
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double1.hpp
+  cef34d8fe655bbae 1-31
+submodules/simple-knn/simple_knn.h
+  cef34d8fe655bbae 1-21
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00061_source.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00087_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00175_source.html
+  cef34d8fe655bbae 1-247
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_b.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_1.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_9.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float2x4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_9.js
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/extend.inl
+  cef34d8fe655bbae 1-48
+submodules/diff-gaussian-rasterization/third_party/glm/cmake/cmake_uninstall.cmake.in
+  cef34d8fe655bbae 1-21
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_c.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/type_aligned.hpp
+  cef34d8fe655bbae 1-1315
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00259.html
+  cef34d8fe655bbae 1-112
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00358.html
+  cef34d8fe655bbae 1-256
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00001_source.html
+  cef34d8fe655bbae 1-493
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00289.html
+  cef34d8fe655bbae 1-187
+scripts_new/run_batch.sh
+  cef34d8fe655bbae 1-69
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float4x4.hpp
+  cef34d8fe655bbae 1-23
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint3x3_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_query.inl
+  cef34d8fe655bbae 1-113
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00163_source.html
+  cef34d8fe655bbae 1-169
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_6.js
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/intersect.inl
+  cef34d8fe655bbae 1-200
+submodules/diff-gaussian-rasterization/third_party/glm/glm/vector_relational.hpp
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00135.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00108_source.html
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint4x2.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint1.hpp
+  cef34d8fe655bbae 1-32
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_7.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00121.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_10.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_common.cpp
+  cef34d8fe655bbae 1-1349
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/texture.inl
+  cef34d8fe655bbae 1-17
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_3.js
+  cef34d8fe655bbae 1-78
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00027.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00086_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_ulp.cpp
+  cef34d8fe655bbae 1-99
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00186.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00102_source.html
+  cef34d8fe655bbae 1-128
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00269.html
+  cef34d8fe655bbae 1-115
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00100.html
+  cef34d8fe655bbae 1-403
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00330.html
+  cef34d8fe655bbae 1-366
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00224.html
+  cef34d8fe655bbae 1-149
+utils/large_utils.py
+  cef34d8fe655bbae 1-338
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00193.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat3x3.inl
+  cef34d8fe655bbae 1-601
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/_swizzle_func.hpp
+  cef34d8fe655bbae 1-682
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00076.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/.appveyor.yml
+  cef34d8fe655bbae 1-92
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_quat_simd.inl
+  cef34d8fe655bbae 1-187
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00254.html
+  cef34d8fe655bbae 1-248
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/rotate_vector.hpp
+  cef34d8fe655bbae 1-123
+tools/gen_360_yamls.py
+  cef34d8fe655bbae 1-91
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_extented_min_max.cpp
+  cef34d8fe655bbae 1-39
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00076_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_cross_product.hpp
+  cef34d8fe655bbae 1-47
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00084.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec4_simd.inl
+  cef34d8fe655bbae 1-788
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00137.html
+  cef34d8fe655bbae 1-145
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00162.html
+  cef34d8fe655bbae 1-735
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_reciprocal.inl
+  cef34d8fe655bbae 1-105
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/constants.hpp
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_3.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/compatibility.inl
+  cef34d8fe655bbae 1-62
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00101.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00323.html
+  cef34d8fe655bbae 1-409
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00016.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00160_source.html
+  cef34d8fe655bbae 1-172
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_9.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00161_source.html
+  cef34d8fe655bbae 1-1401
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_left_handed.cpp
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint3x2_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat3x2.hpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00030.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_quaternion.cpp
+  cef34d8fe655bbae 1-345
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00264.html
+  cef34d8fe655bbae 1-99
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_transform_2d.inl
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/third_party/glm/util/autoexp.txt
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_type_aligned.cpp
+  cef34d8fe655bbae 1-181
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float4x3_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00023_source.html
+  cef34d8fe655bbae 1-254
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00056_source.html
+  cef34d8fe655bbae 1-110
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_4.js
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/rasterize_points.h
+  cef34d8fe655bbae 1-74
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00235_source.html
+  cef34d8fe655bbae 1-137
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00023.html
+  cef34d8fe655bbae 1-244
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00071.html
+  cef34d8fe655bbae 1-120
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00205_source.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00110.html
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat4x2.cpp
+  cef34d8fe655bbae 1-151
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_9.js
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00202.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_iec559.cpp
+  cef34d8fe655bbae 1-166
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00213.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_major_storage.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_cxx03.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00187_source.html
+  cef34d8fe655bbae 1-2871
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00356.html
+  cef34d8fe655bbae 1-492
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/noise.hpp
+  cef34d8fe655bbae 1-61
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00216.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_9.js
+  cef34d8fe655bbae 1-214
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00369.html
+  cef34d8fe655bbae 1-195
+scripts_new/prepare_pano_scene.sh
+  cef34d8fe655bbae 1-218
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00099_source.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00309.html
+  cef34d8fe655bbae 1-322
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/_swizzle.hpp
+  cef34d8fe655bbae 1-804
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_component_wise.cpp
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_033f5edb0915b828d2c46ed4804e5503.html
+  cef34d8fe655bbae 1-164
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00245.html
+  cef34d8fe655bbae 1-539
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_4.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00070_source.html
+  cef34d8fe655bbae 1-117
+tools/convert_omniblender_to_colmap.py
+  cef34d8fe655bbae 1-212
+tools/convert_openmvg_to_colmap.py
+  cef34d8fe655bbae 1-308
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00062.html
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_ulp.inl
+  cef34d8fe655bbae 1-74
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_decompose.hpp
+  cef34d8fe655bbae 1-46
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00314.html
+  cef34d8fe655bbae 1-257
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double2x3_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00091_source.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_e.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_transform.cpp
+  cef34d8fe655bbae 1-61
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00194.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00145.html
+  cef34d8fe655bbae 1-124
+train_coarse.py
+  cef34d8fe655bbae 1-475
+submodules/diff-gaussian-rasterization/third_party/glm/.gitignore
+  cef34d8fe655bbae 1-61
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00021.html
+  cef34d8fe655bbae 1-223
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00227.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00272.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00233_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_epsilon.cpp
+  cef34d8fe655bbae 1-78
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_color_space.cpp
+  cef34d8fe655bbae 1-20
+submodules/diff-gaussian-rasterization/third_party/glm/test/cmake/test_find_glm.cpp
+  cef34d8fe655bbae 1-22
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00368.html
+  cef34d8fe655bbae 1-319
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00169.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_explicit_ctor.cpp
+  cef34d8fe655bbae 1-17
+scene/viewer/renderer.py
+  cef34d8fe655bbae 1-29
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00072.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00305.html
+  cef34d8fe655bbae 1-873
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float3x3.hpp
+  cef34d8fe655bbae 1-23
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_int_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00196_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_5.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00198_source.html
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/copying.txt
+  cef34d8fe655bbae 1-54
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00097_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00318.html
+  cef34d8fe655bbae 1-892
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00359.html
+  cef34d8fe655bbae 1-263
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_half.hpp
+  cef34d8fe655bbae 1-16
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double2x2_precision.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00041_source.html
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00073_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00202_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00226_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00067_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00054.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_b.js
+  cef34d8fe655bbae 1-15
+config_360/self_captured/a1_nanshan_4k_c4.yaml
+  cef34d8fe655bbae 1-62
+scene/datasets.py
+  cef34d8fe655bbae 1-174
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00166.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/optimum_pow.inl
+  cef34d8fe655bbae 1-22
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/exponential.h
+  cef34d8fe655bbae 1-20
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00032.html
+  cef34d8fe655bbae 1-151
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_normal.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00190_source.html
+  cef34d8fe655bbae 1-122
+config_360/self_captured/a1_nankeda_4k.yaml
+  cef34d8fe655bbae 1-57
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00277.html
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_a.js
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00291.html
+  cef34d8fe655bbae 1-263
+submodules/simple-knn/spatial.h
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/tabs.css
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint4_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00168.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00081.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/epsilon.hpp
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/extended_min_max.hpp
+  cef34d8fe655bbae 1-137
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00367.html
+  cef34d8fe655bbae 1-208
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/perf_matrix_div.cpp
+  cef34d8fe655bbae 1-153
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00146.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00123.html
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/search.css
+  cef34d8fe655bbae 1-271
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat2x2.inl
+  cef34d8fe655bbae 1-536
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_quat_xyzw.cpp
+  cef34d8fe655bbae 1-13
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_6.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_14.js
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/packing.hpp
+  cef34d8fe655bbae 1-173
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_relational.cpp
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_associated_min_max.cpp
+  cef34d8fe655bbae 1-10
+utils/camera_utils.py
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00361.html
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00302.html
+  cef34d8fe655bbae 1-547
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/trigonometric.h
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/random.hpp
+  cef34d8fe655bbae 1-82
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/mixed_product.hpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00066_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_d.js
+  cef34d8fe655bbae 1-4
+lpipsPyTorch/modules/networks.py
+  cef34d8fe655bbae 1-96
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_projection.hpp
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x3.hpp
+  cef34d8fe655bbae 1-171
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/transform.inl
+  cef34d8fe655bbae 1-23
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/CMakeLists.txt
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00075_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_f.js
+  cef34d8fe655bbae 1-35
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00270.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_7.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_relational.hpp
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/pca.hpp
+  cef34d8fe655bbae 1-115
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00172.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_transform.inl
+  cef34d8fe655bbae 1-3
+submodules/diff-gaussian-rasterization/third_party/glm/glm/vec4.hpp
+  cef34d8fe655bbae 1-15
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_5.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint2x4_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/functions.inl
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/quaternion.hpp
+  cef34d8fe655bbae 1-173
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00086.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_common_simd.inl
+  cef34d8fe655bbae 1-231
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00113_source.html
+  cef34d8fe655bbae 1-158
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_hash.cpp
+  cef34d8fe655bbae 1-55
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00181.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00134_source.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/color_space_YCoCg.inl
+  cef34d8fe655bbae 1-107
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat2x3.hpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00060_source.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_interpolation.inl
+  cef34d8fe655bbae 1-146
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00177_source.html
+  cef34d8fe655bbae 1-171
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00110_source.html
+  cef34d8fe655bbae 1-152
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_operation.hpp
+  cef34d8fe655bbae 1-103
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00053_source.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_uint4_sized.cpp
+  cef34d8fe655bbae 1-41
+scene/viewer/ui/edit_panel.py
+  cef34d8fe655bbae 1-297
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00138.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext.hpp
+  cef34d8fe655bbae 1-255
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_f.js
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/integer.hpp
+  cef34d8fe655bbae 1-76
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_12.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_b.js
+  cef34d8fe655bbae 1-47
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_uint2_sized.cpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/files.html
+  cef34d8fe655bbae 1-334
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint1_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00203.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat3x2.inl
+  cef34d8fe655bbae 1-532
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00360.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int4x4.hpp
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_packing.hpp
+  cef34d8fe655bbae 1-32
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/packing.hpp
+  cef34d8fe655bbae 1-728
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00337.html
+  cef34d8fe655bbae 1-237
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00183_source.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00229.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_0.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/matrix.h
+  cef34d8fe655bbae 1-1028
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00191.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00235.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00117_source.html
+  cef34d8fe655bbae 1-134
+merge.py
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00130_source.html
+  cef34d8fe655bbae 1-135
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00186_source.html
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00287.html
+  cef34d8fe655bbae 1-289
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_8.html
+  cef34d8fe655bbae 1-26
+extract_events.py
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00207.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00157.html
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00252.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_7.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/easing.hpp
+  cef34d8fe655bbae 1-219
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00161.html
+  cef34d8fe655bbae 1-1523
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_operation.inl
+  cef34d8fe655bbae 1-176
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/platform.h
+  cef34d8fe655bbae 1-409
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00090.html
+  cef34d8fe655bbae 1-120
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_type_ptr.cpp
+  cef34d8fe655bbae 1-335
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00088_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00109_source.html
+  cef34d8fe655bbae 1-116
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00182_source.html
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_vec2.cpp
+  cef34d8fe655bbae 1-392
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_closest_point.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int3x3_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00201.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00184.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/CMakeLists.txt
+  cef34d8fe655bbae 1-52
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint3x4.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00134.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00344.html
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_interpolation.cpp
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00017.html
+  cef34d8fe655bbae 1-443
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_a.js
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00128_source.html
+  cef34d8fe655bbae 1-118
+tools/make_depth_scale.py
+  cef34d8fe655bbae 1-202
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00071_source.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double4_precision.hpp
+  cef34d8fe655bbae 1-35
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_setup_message.cpp
+  cef34d8fe655bbae 1-230
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00234_source.html
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00029_source.html
+  cef34d8fe655bbae 1-219
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_2.js
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_3.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00096_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat2x2.cpp
+  cef34d8fe655bbae 1-177
+submodules/diff-gaussian-rasterization/diff_gaussian_rasterization/__init__.py
+  cef34d8fe655bbae 1-250
+README_zh.md
+  cef34d8fe655bbae 1-276
+submodules/diff-gaussian-rasterization/cuda_rasterizer/rasterizer_impl.h
+  cef34d8fe655bbae 1-74
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_a.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_2.js
+  cef34d8fe655bbae 1-5
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_4.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00280.html
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_constants.cpp
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_1.js
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00007.html
+  cef34d8fe655bbae 1-205
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00263.html
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00222_source.html
+  cef34d8fe655bbae 1-158
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_12.js
+  cef34d8fe655bbae 1-52
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_f35778ec600a1b9bbc4524e62e226aa2.html
+  cef34d8fe655bbae 1-287
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_platform_unknown.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00173_source.html
+  cef34d8fe655bbae 1-289
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00149_source.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00219_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_7.js
+  cef34d8fe655bbae 1-194
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00166_source.html
+  cef34d8fe655bbae 1-260
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00224_source.html
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00125_source.html
+  cef34d8fe655bbae 1-195
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double3x3.hpp
+  cef34d8fe655bbae 1-23
+config_360/benchmark/omniblender/omniblender_LOU.yaml
+  cef34d8fe655bbae 1-56
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00114.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_0.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double3x3_precision.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00038.html
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_6.js
+  cef34d8fe655bbae 1-188
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/bitfield.inl
+  cef34d8fe655bbae 1-626
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_inverse.inl
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int4x2_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint3x2.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_reciprocal.hpp
+  cef34d8fe655bbae 1-135
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00100_source.html
+  cef34d8fe655bbae 1-477
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/ulp.hpp
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00346.html
+  cef34d8fe655bbae 1-142
+scene/viewer/ui/__init__.py
+  cef34d8fe655bbae 1-3
+submodules/diff-gaussian-rasterization/cuda_rasterizer/config.h
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00039.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int2x4_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_geometric.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_integer.cpp
+  cef34d8fe655bbae 1-547
+utils/sh_utils.py
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_c.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00226.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/handed_coordinate_space.inl
+  cef34d8fe655bbae 1-26
+train_coarse_sky.py
+  cef34d8fe655bbae 1-460
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_double.hpp
+  cef34d8fe655bbae 1-39
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int3x4_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00015.html
+  cef34d8fe655bbae 1-267
+config_360/self_captured/a1_bijiashan_3_4k_c4.yaml
+  cef34d8fe655bbae 1-62
+doc/citygaussianv1_readme.md
+  cef34d8fe655bbae 1-164
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00033.html
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00180_source.html
+  cef34d8fe655bbae 1-523
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/setup.hpp
+  cef34d8fe655bbae 1-1184
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00334.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00297.html
+  cef34d8fe655bbae 1-182
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00298.html
+  cef34d8fe655bbae 1-2034
+submodules/diff-gaussian-rasterization/third_party/glm/glm/exponential.hpp
+  cef34d8fe655bbae 1-110
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_simd_mat4.cpp
+  cef34d8fe655bbae 1-324
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00220.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00165_source.html
+  cef34d8fe655bbae 1-277
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00142_source.html
+  cef34d8fe655bbae 1-188
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_exponential.inl
+  cef34d8fe655bbae 1-89
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/constants.inl
+  cef34d8fe655bbae 1-167
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00052_source.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_int_10_10_10_2.cpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00176_source.html
+  cef34d8fe655bbae 1-269
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00371.html
+  cef34d8fe655bbae 1-293
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00038_source.html
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00083.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00212_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00284.html
+  cef34d8fe655bbae 1-1689
+utils/general_utils.py
+  cef34d8fe655bbae 1-271
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00028.html
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00180.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00106.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00200.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/perpendicular.hpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/rotate_vector.inl
+  cef34d8fe655bbae 1-187
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00279.html
+  cef34d8fe655bbae 1-431
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_5.html
+  cef34d8fe655bbae 1-26
+config_360/self_captured/nsk_c4.yaml
+  cef34d8fe655bbae 1-62
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_float.hpp
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00201_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double2x4_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double4x2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_1.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/euler_angles.hpp
+  cef34d8fe655bbae 1-335
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/type_aligned.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_cxx98.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_normalize_dot.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_2.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00089.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat3x4.hpp
+  cef34d8fe655bbae 1-166
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_vec_swizzle.cpp
+  cef34d8fe655bbae 1-11
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00127_source.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00185.html
+  cef34d8fe655bbae 1-108
+utils/graphics_utils.py
+  cef34d8fe655bbae 1-77
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_transform.inl
+  cef34d8fe655bbae 1-24
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00187.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_e.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dynsections.js
+  cef34d8fe655bbae 1-104
+submodules/diff-gaussian-rasterization/third_party/glm/glm/common.hpp
+  cef34d8fe655bbae 1-539
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00178_source.html
+  cef34d8fe655bbae 1-402
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_8.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec2.hpp
+  cef34d8fe655bbae 1-402
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_geometric.inl
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/packing.h
+  cef34d8fe655bbae 1-8
+arguments/__init__.py
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00141.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/closest_point.inl
+  cef34d8fe655bbae 1-45
+config_360/self_captured/a1_nankeda_4k_c4.yaml
+  cef34d8fe655bbae 1-62
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00127.html
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00183.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00207_source.html
+  cef34d8fe655bbae 1-122
+doc/data_preparation.md
+  cef34d8fe655bbae 1-78
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_11.js
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x2.inl
+  cef34d8fe655bbae 1-574
+scene/cameras.py
+  cef34d8fe655bbae 1-188
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_exponential_simd.inl
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_6.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_easing.cpp
+  cef34d8fe655bbae 1-65
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_a.js
+  cef34d8fe655bbae 1-64
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_7.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat2x4.inl
+  cef34d8fe655bbae 1-520
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00018_source.html
+  cef34d8fe655bbae 1-145
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_d.js
+  cef34d8fe655bbae 1-7
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_1.js
+  cef34d8fe655bbae 1-20
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/wrap.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_texture.cpp
+  cef34d8fe655bbae 1-22
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00310.html
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00106_source.html
+  cef34d8fe655bbae 1-151
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00340.html
+  cef34d8fe655bbae 1-367
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/doxygen.css
+  cef34d8fe655bbae 1-1496
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00282.html
+  cef34d8fe655bbae 1-1101
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_6.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_6.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00145_source.html
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00095_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat3x4.inl
+  cef34d8fe655bbae 1-578
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00142.html
+  cef34d8fe655bbae 1-161
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int3x3.hpp
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/glm/fwd.hpp
+  cef34d8fe655bbae 1-1233
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/norm.hpp
+  cef34d8fe655bbae 1-88
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00195.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/integer.hpp
+  cef34d8fe655bbae 1-43
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_b.js
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00049.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_5.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/searchdata.js
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_integer_find_lsb.cpp
+  cef34d8fe655bbae 1-416
+submodules/diff-gaussian-rasterization/third_party/glm/doc/man.doxy
+  cef34d8fe655bbae 1-2415
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/closest_point.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/color_space.hpp
+  cef34d8fe655bbae 1-72
+README.md
+  cef34d8fe655bbae 1-278
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_12.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint4x4_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_ulp.cpp
+  cef34d8fe655bbae 1-96
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00102.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00150_source.html
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00221_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00365.html
+  cef34d8fe655bbae 1-96
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_c.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00332.html
+  cef34d8fe655bbae 1-97
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00354.html
+  cef34d8fe655bbae 1-183
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_a8bee7be44182a33f3820393ae0b105d.html
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec3.inl
+  cef34d8fe655bbae 1-1070
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_integer.cpp
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/color_space.hpp
+  cef34d8fe655bbae 1-56
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00192.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00169_source.html
+  cef34d8fe655bbae 1-284
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_rotate_normalized_axis.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_6.js
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_uint_sized.cpp
+  cef34d8fe655bbae 1-43
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00048.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_integer_simd.inl
+  cef34d8fe655bbae 1-65
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00037.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_decompose.inl
+  cef34d8fe655bbae 1-192
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00082.html
+  cef34d8fe655bbae 1-120
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_euler_angle.cpp
+  cef34d8fe655bbae 1-539
+config_360/self_captured/nsk.yaml
+  cef34d8fe655bbae 1-56
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00026.html
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_vector_relational.inl
+  cef34d8fe655bbae 1-87
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00231_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00299.html
+  cef34d8fe655bbae 1-619
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_cross_product.inl
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_number_precision.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00307.html
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00316.html
+  cef34d8fe655bbae 1-241
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/epsilon.inl
+  cef34d8fe655bbae 1-80
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00311.html
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00137_source.html
+  cef34d8fe655bbae 1-145
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00113.html
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00195_source.html
+  cef34d8fe655bbae 1-111
+gaussian_renderer/network_gui.py
+  cef34d8fe655bbae 1-87
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int1.hpp
+  cef34d8fe655bbae 1-32
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int1_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00120_source.html
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/.travis.yml
+  cef34d8fe655bbae 1-388
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00073.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00062_source.html
+  cef34d8fe655bbae 1-134
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00167.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00324.html
+  cef34d8fe655bbae 1-332
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_common_simd.inl
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/fast_square_root.hpp
+  cef34d8fe655bbae 1-98
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00366.html
+  cef34d8fe655bbae 1-95
+config_360/templates/lonlat_template.yaml
+  cef34d8fe655bbae 1-54
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat3x4.cpp
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_vec4.cpp
+  cef34d8fe655bbae 1-850
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00078.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00080.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_13.js
+  cef34d8fe655bbae 1-62
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00262.html
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00107.html
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/std_based_type.hpp
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/type_aligned.hpp
+  cef34d8fe655bbae 1-982
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/component_wise.hpp
+  cef34d8fe655bbae 1-69
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/vector_relational.h
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_f.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00328.html
+  cef34d8fe655bbae 1-181
+submodules/diff-gaussian-rasterization/third_party/glm/glm/glm.hpp
+  cef34d8fe655bbae 1-137
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00009.html
+  cef34d8fe655bbae 1-223
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_common.hpp
+  cef34d8fe655bbae 1-39
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00247.html
+  cef34d8fe655bbae 1-444
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00121_source.html
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float4x3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00060.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00230.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint2x3_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00165.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_integer.inl
+  cef34d8fe655bbae 1-85
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_4.js
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec4.hpp
+  cef34d8fe655bbae 1-508
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00080_source.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00177.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int3x2_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00250.html
+  cef34d8fe655bbae 1-163
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00041.html
+  cef34d8fe655bbae 1-129
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00068_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_14.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00006_source.html
+  cef34d8fe655bbae 1-262
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00042.html
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_integer.hpp
+  cef34d8fe655bbae 1-92
+submodules/diff-gaussian-rasterization/.gitmodules
+  cef34d8fe655bbae 1-3
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/handed_coordinate_space.hpp
+  cef34d8fe655bbae 1-50
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_cpp_constexpr.cpp
+  cef34d8fe655bbae 1-750
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vec1.cpp
+  cef34d8fe655bbae 1-157
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_color_space.cpp
+  cef34d8fe655bbae 1-78
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00129.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_uint3_sized.cpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_inverse.hpp
+  cef34d8fe655bbae 1-50
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00037_source.html
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/bit.hpp
+  cef34d8fe655bbae 1-98
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00061.html
+  cef34d8fe655bbae 1-125
+config_360/self_captured/a1nanshan_c4.yaml
+  cef34d8fe655bbae 1-65
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00109.html
+  cef34d8fe655bbae 1-113
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_8.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00051.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_2.js
+  cef34d8fe655bbae 1-51
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int3x2.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00115_source.html
+  cef34d8fe655bbae 1-128
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00333.html
+  cef34d8fe655bbae 1-169
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00213_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_relational.inl
+  cef34d8fe655bbae 1-75
+submodules/diff-gaussian-rasterization/cuda_rasterizer/forward.cu
+  cef34d8fe655bbae 1-653
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00265.html
+  cef34d8fe655bbae 1-107
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/fast_square_root.inl
+  cef34d8fe655bbae 1-75
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/bit.inl
+  cef34d8fe655bbae 1-92
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_relational.cpp
+  cef34d8fe655bbae 1-51
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00132_source.html
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_packing.cpp
+  cef34d8fe655bbae 1-878
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00154_source.html
+  cef34d8fe655bbae 1-148
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_pca.cpp
+  cef34d8fe655bbae 1-724
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint3x4_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_7.js
+  cef34d8fe655bbae 1-5
+submodules/simple-knn/simple_knn.cu
+  cef34d8fe655bbae 1-222
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int3x4.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double3x4_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_int.cpp
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/CMakeLists.txt
+  cef34d8fe655bbae 1-20
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_color_space_YCoCg.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00136.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00336.html
+  cef34d8fe655bbae 1-197
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_14.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_3.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_transform.hpp
+  cef34d8fe655bbae 1-171
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int4x4_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/component_wise.inl
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_type.cpp
+  cef34d8fe655bbae 1-113
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00242.html
+  cef34d8fe655bbae 1-375
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_uint1_sized.cpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint3x3.hpp
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00111.html
+  cef34d8fe655bbae 1-120
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float2x4_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x4.inl
+  cef34d8fe655bbae 1-706
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00155.html
+  cef34d8fe655bbae 1-141
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00022_source.html
+  cef34d8fe655bbae 1-317
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat2x4.hpp
+  cef34d8fe655bbae 1-161
+submodules/diff-gaussian-rasterization/cuda_rasterizer/auxiliary.h
+  cef34d8fe655bbae 1-215
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_float_precision.hpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/glm/integer.hpp
+  cef34d8fe655bbae 1-212
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat2x3.cpp
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_exterior_product.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00338.html
+  cef34d8fe655bbae 1-475
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/integer.inl
+  cef34d8fe655bbae 1-185
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00341.html
+  cef34d8fe655bbae 1-298
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00092_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00148_source.html
+  cef34d8fe655bbae 1-174
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_vec1.cpp
+  cef34d8fe655bbae 1-169
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00131_source.html
+  cef34d8fe655bbae 1-118
+tools/convert_360roam_to_colmap.py
+  cef34d8fe655bbae 1-151
+.gitignore
+  cef34d8fe655bbae 1-72
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint3x2_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00174_source.html
+  cef34d8fe655bbae 1-1682
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00155_source.html
+  cef34d8fe655bbae 1-145
+submodules/diff-gaussian-rasterization/.gitignore
+  cef34d8fe655bbae 1-3
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float4_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00129_source.html
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx.cpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_norm.cpp
+  cef34d8fe655bbae 1-81
+utils/fast_utils.py
+  cef34d8fe655bbae 1-281
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00339.html
+  cef34d8fe655bbae 1-379
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int3x4_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_0.js
+  cef34d8fe655bbae 1-209
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_fast_trigonometry.cpp
+  cef34d8fe655bbae 1-564
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_dual_quaternion.cpp
+  cef34d8fe655bbae 1-205
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_2.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/util/autoexp.vc2010.dat
+  cef34d8fe655bbae 1-3896
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_common.hpp
+  cef34d8fe655bbae 1-228
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/compatibility.hpp
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00031.html
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/projection.hpp
+  cef34d8fe655bbae 1-43
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_trigonometric.cpp
+  cef34d8fe655bbae 1-40
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_reciprocal.cpp
+  cef34d8fe655bbae 1-186
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float3x4_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint4x4.hpp
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double3_precision.hpp
+  cef34d8fe655bbae 1-34
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/perf_matrix_mul_vector.cpp
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_bool1.cpp
+  cef34d8fe655bbae 1-104
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_color_encoding.cpp
+  cef34d8fe655bbae 1-51
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00082_source.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/neon.h
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00179_source.html
+  cef34d8fe655bbae 1-493
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00276.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00024_source.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00335.html
+  cef34d8fe655bbae 1-160
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_random.cpp
+  cef34d8fe655bbae 1-381
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00007_source.html
+  cef34d8fe655bbae 1-250
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00079.html
+  cef34d8fe655bbae 1-120
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00115.html
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00243.html
+  cef34d8fe655bbae 1-2717
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_clip_space.inl
+  cef34d8fe655bbae 1-555
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int2x2.hpp
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_length.cpp
+  cef34d8fe655bbae 1-78
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_relational.inl
+  cef34d8fe655bbae 1-88
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00122_source.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_5.js
+  cef34d8fe655bbae 1-7
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_ulp.inl
+  cef34d8fe655bbae 1-284
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/associated_min_max.hpp
+  cef34d8fe655bbae 1-207
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00054_source.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_packing_simd.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint2x3.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_type_trait.cpp
+  cef34d8fe655bbae 1-13
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00132.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_round.cpp
+  cef34d8fe655bbae 1-458
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_common.cpp
+  cef34d8fe655bbae 1-360
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00013_source.html
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/rasterize_points.cu
+  cef34d8fe655bbae 1-339
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00074_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/associated_min_max.inl
+  cef34d8fe655bbae 1-354
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00214.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool3_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00301.html
+  cef34d8fe655bbae 1-460
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00170_source.html
+  cef34d8fe655bbae 1-267
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00197_source.html
+  cef34d8fe655bbae 1-157
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_5.js
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/rotate_normalized_axis.hpp
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/spline.hpp
+  cef34d8fe655bbae 1-65
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00044_source.html
+  cef34d8fe655bbae 1-168
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_size_t_length.cpp
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00128.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00349.html
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_a.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00008_source.html
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00018.html
+  cef34d8fe655bbae 1-141
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00248.html
+  cef34d8fe655bbae 1-402
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00151_source.html
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_f.js
+  cef34d8fe655bbae 1-43
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/color_space.inl
+  cef34d8fe655bbae 1-84
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/random.inl
+  cef34d8fe655bbae 1-303
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint2x4.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00103.html
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_integer.cpp
+  cef34d8fe655bbae 1-233
+scene/__init__.py
+  cef34d8fe655bbae 1-364
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00197.html
+  cef34d8fe655bbae 1-162
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00199_source.html
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_b.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00091.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/geometric.h
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int2_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/norm.inl
+  cef34d8fe655bbae 1-95
+utils/system_utils.py
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00215_source.html
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/cuda_rasterizer/backward.h
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float4x2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/quaternion.inl
+  cef34d8fe655bbae 1-208
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_7.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_d9496f0844b48bc7e53b5af8c99b9ab2.html
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_1.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/_fixes.hpp
+  cef34d8fe655bbae 1-27
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_reciprocal.hpp
+  cef34d8fe655bbae 1-135
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_integer.inl
+  cef34d8fe655bbae 1-372
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/hash.hpp
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00111_source.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_integer_bit_count.cpp
+  cef34d8fe655bbae 1-291
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00096.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00101_source.html
+  cef34d8fe655bbae 1-140
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double3x2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00253.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00268.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/glm/matrix.hpp
+  cef34d8fe655bbae 1-161
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_matrix.cpp
+  cef34d8fe655bbae 1-392
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int3x2_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00319.html
+  cef34d8fe655bbae 1-1609
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00374.html
+  cef34d8fe655bbae 1-452
+tools/_pano_colmap_utils.py
+  cef34d8fe655bbae 1-309
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float2x3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00285.html
+  cef34d8fe655bbae 1-211
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_11.js
+  cef34d8fe655bbae 1-20
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00304.html
+  cef34d8fe655bbae 1-8955
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00025_source.html
+  cef34d8fe655bbae 1-380
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00090_source.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_e.js
+  cef34d8fe655bbae 1-13
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_8.js
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float4x2.hpp
+  cef34d8fe655bbae 1-18
+doc/custom_dataset.md
+  cef34d8fe655bbae 1-50
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/transform2.hpp
+  cef34d8fe655bbae 1-89
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_int2_sized.cpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_matrix.inl
+  cef34d8fe655bbae 1-443
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_vector_angle.cpp
+  cef34d8fe655bbae 1-59
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_fast_exponential.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/spline.inl
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00040_source.html
+  cef34d8fe655bbae 1-232
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00320.html
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_2.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/extended_min_max.inl
+  cef34d8fe655bbae 1-138
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/texture.hpp
+  cef34d8fe655bbae 1-46
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00175.html
+  cef34d8fe655bbae 1-249
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00114_source.html
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00020_source.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00275.html
+  cef34d8fe655bbae 1-484
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_9.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_common.inl
+  cef34d8fe655bbae 1-144
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat4x3.hpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/glm/vec2.hpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00032_source.html
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00131.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_e.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/log_base.inl
+  cef34d8fe655bbae 1-16
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00085.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_10.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_geometric.cpp
+  cef34d8fe655bbae 1-200
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_reciprocal.cpp
+  cef34d8fe655bbae 1-171
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int2x2_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint4x2_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00171_source.html
+  cef34d8fe655bbae 1-272
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/color_space_YCoCg.hpp
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00015_source.html
+  cef34d8fe655bbae 1-276
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_3.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_0.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00029.html
+  cef34d8fe655bbae 1-183
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_8.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/_matrix_vectorize.hpp
+  cef34d8fe655bbae 1-128
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00025.html
+  cef34d8fe655bbae 1-279
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00112.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float2x3_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/dual_quaternion.inl
+  cef34d8fe655bbae 1-352
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_0.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_13.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_vector_relational_simd.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00147.html
+  cef34d8fe655bbae 1-143
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_float.hpp
+  cef34d8fe655bbae 1-39
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_4.js
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_relational.inl
+  cef34d8fe655bbae 1-40
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00171.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/exterior_product.inl
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00227_source.html
+  cef34d8fe655bbae 1-122
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/color_space.inl
+  cef34d8fe655bbae 1-141
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00057.html
+  cef34d8fe655bbae 1-135
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00190.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00069_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_aligned_gentypes.cpp
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint4x3_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/polar_coordinates.inl
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_trigonometric.inl
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint2_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int2x3.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int2x2_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_gradient_paint.cpp
+  cef34d8fe655bbae 1-34
+submodules/diff-gaussian-rasterization/third_party/stbi_image_write.h
+  cef34d8fe655bbae 1-1724
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/bitfield.hpp
+  cef34d8fe655bbae 1-266
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool1_precision.hpp
+  cef34d8fe655bbae 1-34
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00278.html
+  cef34d8fe655bbae 1-101
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_projection.inl
+  cef34d8fe655bbae 1-106
+submodules/diff-gaussian-rasterization/cuda_rasterizer/backward.cu
+  cef34d8fe655bbae 1-932
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_c.js
+  cef34d8fe655bbae 1-7
+utils/vq_utils.py
+  cef34d8fe655bbae 1-112
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/normalize_dot.hpp
+  cef34d8fe655bbae 1-49
+viewer.py
+  cef34d8fe655bbae 1-1009
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00173.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat2x4.hpp
+  cef34d8fe655bbae 1-9
+config_360/self_captured/a1nanshan.yaml
+  cef34d8fe655bbae 1-58
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double4x3_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_c.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00122.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/round.inl
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00267.html
+  cef34d8fe655bbae 1-674
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_cxx_unknown.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint3_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_packing.cpp
+  cef34d8fe655bbae 1-156
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/CMakeLists.txt
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00184_source.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/CMakeLists.txt
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/modules.html
+  cef34d8fe655bbae 1-228
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00208_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00225_source.html
+  cef34d8fe655bbae 1-148
+submodules/diff-gaussian-rasterization/third_party/glm/util/usertype.dat
+  cef34d8fe655bbae 1-407
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int2x4_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_6.js
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/glm/simd/common.h
+  cef34d8fe655bbae 1-240
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_int4_sized.cpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00136_source.html
+  cef34d8fe655bbae 1-134
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_depth_zero_to_one.cpp
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_arch_unknown.cpp
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00313.html
+  cef34d8fe655bbae 1-199
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_spline.cpp
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/readme.md
+  cef34d8fe655bbae 1-1231
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_ctor.cpp
+  cef34d8fe655bbae 1-351
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_10.js
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00210_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/perf_vector_mul_matrix.cpp
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float3x4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_transform_2d.hpp
+  cef34d8fe655bbae 1-81
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_unrestricted_gentype.cpp
+  cef34d8fe655bbae 1-12
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int2x3_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00058.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat3x3.cpp
+  cef34d8fe655bbae 1-197
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/io.hpp
+  cef34d8fe655bbae 1-201
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00223_source.html
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00016_source.html
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_5189610d3ba09ec39b766fb99b34cd93.html
+  cef34d8fe655bbae 1-100
+scene/colmap_loader.py
+  cef34d8fe655bbae 1-294
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00174.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_3.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/dual_quaternion.hpp
+  cef34d8fe655bbae 1-274
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/pages_0.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_13.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/pca.inl
+  cef34d8fe655bbae 1-343
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat2x4.cpp
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_cast.cpp
+  cef34d8fe655bbae 1-146
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat4x4.hpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_intersect.cpp
+  cef34d8fe655bbae 1-88
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/perf_matrix_mul.cpp
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00047_source.html
+  cef34d8fe655bbae 1-2515
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_transform.hpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00294.html
+  cef34d8fe655bbae 1-2023
+train_large.py
+  cef34d8fe655bbae 1-490
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00049_source.html
+  cef34d8fe655bbae 1-110
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_setup_platform_unknown.cpp
+  cef34d8fe655bbae 1-21
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00139_source.html
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_exponential.inl
+  cef34d8fe655bbae 1-152
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00143.html
+  cef34d8fe655bbae 1-165
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00347.html
+  cef34d8fe655bbae 1-172
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint3x4_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_16.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00234.html
+  cef34d8fe655bbae 1-146
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00160.html
+  cef34d8fe655bbae 1-175
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00357.html
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00105_source.html
+  cef34d8fe655bbae 1-155
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat2x3.hpp
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00199.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_double_precision.hpp
+  cef34d8fe655bbae 1-42
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00087.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00241.html
+  cef34d8fe655bbae 1-1595
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_e.js
+  cef34d8fe655bbae 1-19
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_constants.hpp
+  cef34d8fe655bbae 1-40
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_optimum_pow.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00370.html
+  cef34d8fe655bbae 1-639
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00204.html
+  cef34d8fe655bbae 1-117
+NOTICE_OMNIGS.md
+  cef34d8fe655bbae 1-14
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/easing.inl
+  cef34d8fe655bbae 1-436
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_geometric.cpp
+  cef34d8fe655bbae 1-88
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_12.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00353.html
+  cef34d8fe655bbae 1-96
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/common.inl
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_log_base.cpp
+  cef34d8fe655bbae 1-54
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/normal.hpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_trigonometric.inl
+  cef34d8fe655bbae 1-197
+scene/gaussian_model.py
+  cef34d8fe655bbae 1-974
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00211.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_15.js
+  cef34d8fe655bbae 1-7
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00249.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00034_source.html
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00223.html
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/color_encoding.hpp
+  cef34d8fe655bbae 1-54
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_xyzw_only.cpp
+  cef34d8fe655bbae 1-58
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_7.html
+  cef34d8fe655bbae 1-26
+config_360/templates/360roam_template.yaml
+  cef34d8fe655bbae 1-57
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00063.html
+  cef34d8fe655bbae 1-120
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00193_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00209.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_a.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_factorisation.hpp
+  cef34d8fe655bbae 1-69
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00043.html
+  cef34d8fe655bbae 1-167
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00010_source.html
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_scalar_multiplication.cpp
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/glm.cpp
+  cef34d8fe655bbae 1-263
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/type_trait.inl
+  cef34d8fe655bbae 1-61
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double3x4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_common.inl
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00167_source.html
+  cef34d8fe655bbae 1-262
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/functions.hpp
+  cef34d8fe655bbae 1-56
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_vec1.cpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/qualifier.hpp
+  cef34d8fe655bbae 1-229
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_b.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/scalar_multiplication.hpp
+  cef34d8fe655bbae 1-82
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/quaternion.inl
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_integer_find_msb.cpp
+  cef34d8fe655bbae 1-440
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00188.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_2.js
+  cef34d8fe655bbae 1-42
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00156_source.html
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00321.html
+  cef34d8fe655bbae 1-831
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_c.js
+  cef34d8fe655bbae 1-5
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00068.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_constants.cpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00107_source.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_common.inl
+  cef34d8fe655bbae 1-170
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_user_defined_types.cpp
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int4x2.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/cuda_rasterizer/rasterizer.h
+  cef34d8fe655bbae 1-157
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_f.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint4x3.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/fast_exponential.inl
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/transform2.inl
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/test/bug/bug_ms_vec_static.cpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_11.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00074.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00261.html
+  cef34d8fe655bbae 1-336
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00094.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_8.js
+  cef34d8fe655bbae 1-179
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00266.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat4x2.hpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_common.hpp
+  cef34d8fe655bbae 1-181
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_compatibility.cpp
+  cef34d8fe655bbae 1-19
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_access.inl
+  cef34d8fe655bbae 1-62
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_reciprocal.inl
+  cef34d8fe655bbae 1-107
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double2x4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_int4x3_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_matrix_inverse.cpp
+  cef34d8fe655bbae 1-51
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_7.js
+  cef34d8fe655bbae 1-7
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_decompose.cpp
+  cef34d8fe655bbae 1-19
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_transform.cpp
+  cef34d8fe655bbae 1-45
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00191_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/vector_angle.hpp
+  cef34d8fe655bbae 1-57
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_reciprocal.cpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_clip_space.hpp
+  cef34d8fe655bbae 1-522
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00154.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_integer.cpp
+  cef34d8fe655bbae 1-1556
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00229_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00152.html
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint2x4_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_relational.hpp
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_f.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_1.js
+  cef34d8fe655bbae 1-5
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/scalar_relational.inl
+  cef34d8fe655bbae 1-88
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_aligned.cpp
+  cef34d8fe655bbae 1-92
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_integer.hpp
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00133_source.html
+  cef34d8fe655bbae 1-134
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00036_source.html
+  cef34d8fe655bbae 1-152
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/rotate_normalized_axis.inl
+  cef34d8fe655bbae 1-58
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/optimum_pow.hpp
+  cef34d8fe655bbae 1-54
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00312.html
+  cef34d8fe655bbae 1-261
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/float_notmalize.inl
+  cef34d8fe655bbae 1-13
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00044.html
+  cef34d8fe655bbae 1-141
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_13.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_9.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/CMakeLists.txt
+  cef34d8fe655bbae 1-78
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00217_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_2.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00308.html
+  cef34d8fe655bbae 1-1357
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00315.html
+  cef34d8fe655bbae 1-430
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_quaternion_common.cpp
+  cef34d8fe655bbae 1-61
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/polar_coordinates.hpp
+  cef34d8fe655bbae 1-48
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00152_source.html
+  cef34d8fe655bbae 1-134
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_13.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_3a581ba30d25676e4b797b1f96d53b45.html
+  cef34d8fe655bbae 1-100
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_a.js
+  cef34d8fe655bbae 1-297
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00153_source.html
+  cef34d8fe655bbae 1-1212
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00118_source.html
+  cef34d8fe655bbae 1-129
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00005_source.html
+  cef34d8fe655bbae 1-781
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00228_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_half.inl
+  cef34d8fe655bbae 1-241
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/type_ptr.inl
+  cef34d8fe655bbae 1-386
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00078_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00151.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00039_source.html
+  cef34d8fe655bbae 1-134
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00281.html
+  cef34d8fe655bbae 1-402
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/quaternion.hpp
+  cef34d8fe655bbae 1-174
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_swizzle.cpp
+  cef34d8fe655bbae 1-164
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00123_source.html
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00064.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_d.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_functions.cpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00118.html
+  cef34d8fe655bbae 1-125
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_polar_coordinates.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00024.html
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00181_source.html
+  cef34d8fe655bbae 1-584
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_15.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_constants.inl
+  cef34d8fe655bbae 1-24
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00064_source.html
+  cef34d8fe655bbae 1-126
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00119_source.html
+  cef34d8fe655bbae 1-356
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int3_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00077_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00065_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00363.html
+  cef34d8fe655bbae 1-423
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_4c6bd29c73fa4e5a2509e1c15f846751.html
+  cef34d8fe655bbae 1-158
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_exponential.cpp
+  cef34d8fe655bbae 1-185
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_common.cpp
+  cef34d8fe655bbae 1-161
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double2x2.hpp
+  cef34d8fe655bbae 1-23
+submodules/simple-knn/ext.cpp
+  cef34d8fe655bbae 1-17
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_quat.hpp
+  cef34d8fe655bbae 1-191
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00022.html
+  cef34d8fe655bbae 1-192
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00220_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_relational.inl
+  cef34d8fe655bbae 1-35
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_orthonormalize.cpp
+  cef34d8fe655bbae 1-9
+submodules/simple-knn/spatial.cu
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00046_source.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/orthonormalize.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00273.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/compute_common.hpp
+  cef34d8fe655bbae 1-50
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00009_source.html
+  cef34d8fe655bbae 1-212
+lpipsPyTorch/modules/utils.py
+  cef34d8fe655bbae 1-30
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00042_source.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00043_source.html
+  cef34d8fe655bbae 1-185
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00124_source.html
+  cef34d8fe655bbae 1-332
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00214_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00230_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00303.html
+  cef34d8fe655bbae 1-1510
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/dir_44e5e654415abd9ca6fdeaddaff8565e.html
+  cef34d8fe655bbae 1-102
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_15.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_1.js
+  cef34d8fe655bbae 1-5
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float2x2_precision.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/fast_trigonometry.inl
+  cef34d8fe655bbae 1-142
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_ulp.cpp
+  cef34d8fe655bbae 1-99
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00002_source.html
+  cef34d8fe655bbae 1-121
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_common.cpp
+  cef34d8fe655bbae 1-365
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_integer.hpp
+  cef34d8fe655bbae 1-91
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float1.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_projection.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00097.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec1.inl
+  cef34d8fe655bbae 1-553
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00329.html
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/raw_data.inl
+  cef34d8fe655bbae 1-2
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00055.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_scalar_packing.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_vector_query.cpp
+  cef34d8fe655bbae 1-82
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_0.js
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_setup_force_size_t_length.cpp
+  cef34d8fe655bbae 1-22
+gaussian_renderer/__init__.py
+  cef34d8fe655bbae 1-383
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00325.html
+  cef34d8fe655bbae 1-296
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat3x3.hpp
+  cef34d8fe655bbae 1-184
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00283.html
+  cef34d8fe655bbae 1-563
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x4.hpp
+  cef34d8fe655bbae 1-189
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00099.html
+  cef34d8fe655bbae 1-132
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/perpendicular.inl
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00104.html
+  cef34d8fe655bbae 1-163
+scene/dataset_readers.py
+  cef34d8fe655bbae 1-569
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00260.html
+  cef34d8fe655bbae 1-119
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_8.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/setup.py
+  cef34d8fe655bbae 1-34
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00222.html
+  cef34d8fe655bbae 1-157
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x3.inl
+  cef34d8fe655bbae 1-598
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_int3_sized.cpp
+  cef34d8fe655bbae 1-41
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float4x4_precision.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_transform_2d.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_integer.hpp
+  cef34d8fe655bbae 1-433
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double3x2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_d.js
+  cef34d8fe655bbae 1-263
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_1.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_query.cpp
+  cef34d8fe655bbae 1-66
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_b.js
+  cef34d8fe655bbae 1-10
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00103_source.html
+  cef34d8fe655bbae 1-186
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint4x3_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_11.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_5.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_integer.inl
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/orthonormalize.inl
+  cef34d8fe655bbae 1-29
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00063_source.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00194_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00218_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00051_source.html
+  cef34d8fe655bbae 1-110
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00255.html
+  cef34d8fe655bbae 1-280
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/vector_angle.inl
+  cef34d8fe655bbae 1-45
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00258.html
+  cef34d8fe655bbae 1-570
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_func_vector_relational.cpp
+  cef34d8fe655bbae 1-180
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_fast_square_root.cpp
+  cef34d8fe655bbae 1-45
+scene/viewer/ui/transform_panel.py
+  cef34d8fe655bbae 1-352
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_vector_int1_sized.cpp
+  cef34d8fe655bbae 1-41
+tools/generate_depth_and_skymask.py
+  cef34d8fe655bbae 1-206
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00206.html
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00130.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/manual.md
+  cef34d8fe655bbae 1-2448
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00196.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int2x4.hpp
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat4x3.cpp
+  cef34d8fe655bbae 1-152
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00149.html
+  cef34d8fe655bbae 1-130
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00211_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00050_source.html
+  cef34d8fe655bbae 1-110
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_0.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_16.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00158.html
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_ulp.hpp
+  cef34d8fe655bbae 1-77
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint4x4_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00225.html
+  cef34d8fe655bbae 1-151
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/exterior_product.hpp
+  cef34d8fe655bbae 1-45
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/io.inl
+  cef34d8fe655bbae 1-440
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00094_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/cuda_rasterizer/forward.h
+  cef34d8fe655bbae 1-96
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00003_source.html
+  cef34d8fe655bbae 1-182
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00004_source.html
+  cef34d8fe655bbae 1-905
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00274.html
+  cef34d8fe655bbae 1-510
+render_large_lod.py
+  cef34d8fe655bbae 1-154
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_4.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00204_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_packing.inl
+  cef34d8fe655bbae 1-189
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_4.js
+  cef34d8fe655bbae 1-188
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/gradient_paint.hpp
+  cef34d8fe655bbae 1-53
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_random.cpp
+  cef34d8fe655bbae 1-99
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00217.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00014_source.html
+  cef34d8fe655bbae 1-141
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00098_source.html
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00203_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00205.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00350.html
+  cef34d8fe655bbae 1-149
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00256.html
+  cef34d8fe655bbae 1-293
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_e.js
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_3.js
+  cef34d8fe655bbae 1-24
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_2.js
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x2.hpp
+  cef34d8fe655bbae 1-171
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int4x4_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_exponential.hpp
+  cef34d8fe655bbae 1-63
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_d.js
+  cef34d8fe655bbae 1-83
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/type_ptr.hpp
+  cef34d8fe655bbae 1-230
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00011.html
+  cef34d8fe655bbae 1-137
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00116_source.html
+  cef34d8fe655bbae 1-158
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_9.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00158_source.html
+  cef34d8fe655bbae 1-138
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float3x2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00178.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_float1_precision.hpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_factorisation.inl
+  cef34d8fe655bbae 1-84
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00010.html
+  cef34d8fe655bbae 1-124
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00014.html
+  cef34d8fe655bbae 1-131
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00150.html
+  cef34d8fe655bbae 1-109
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00144_source.html
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00348.html
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_bool2.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00057_source.html
+  cef34d8fe655bbae 1-216
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_pure.cpp
+  cef34d8fe655bbae 1-434
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/CMakeLists.txt
+  cef34d8fe655bbae 1-55
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint3x3_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/packing.inl
+  cef34d8fe655bbae 1-938
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/euler_angles.inl
+  cef34d8fe655bbae 1-899
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double4.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/wrap.hpp
+  cef34d8fe655bbae 1-37
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/common.hpp
+  cef34d8fe655bbae 1-76
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_type_mat3x2.cpp
+  cef34d8fe655bbae 1-148
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_int4x2_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_8.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/matrix_access.hpp
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/ulp.inl
+  cef34d8fe655bbae 1-173
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_0.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00036.html
+  cef34d8fe655bbae 1-147
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00116.html
+  cef34d8fe655bbae 1-159
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_15.js
+  cef34d8fe655bbae 1-7
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_b.html
+  cef34d8fe655bbae 1-26
+requirements.txt
+  cef34d8fe655bbae 1-21
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00093_source.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00168_source.html
+  cef34d8fe655bbae 1-268
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_transform.inl
+  cef34d8fe655bbae 1-207
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/hash.inl
+  cef34d8fe655bbae 1-175
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/transform.hpp
+  cef34d8fe655bbae 1-60
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00126.html
+  cef34d8fe655bbae 1-181
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/log_base.hpp
+  cef34d8fe655bbae 1-48
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_uint2x3_sized.cpp
+  cef34d8fe655bbae 1-28
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_range.cpp
+  cef34d8fe655bbae 1-83
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00232.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_4.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/test/cmake/CMakeLists.txt
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/std_based_type.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00327.html
+  cef34d8fe655bbae 1-187
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_extend.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtc/gtc_bitfield.cpp
+  cef34d8fe655bbae 1-936
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_type_aligned.cpp
+  cef34d8fe655bbae 1-114
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/scalar_uint_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/vec_swizzle.hpp
+  cef34d8fe655bbae 1-2786
+submodules/diff-gaussian-rasterization/third_party/glm/test/CMakeLists.txt
+  cef34d8fe655bbae 1-246
+lpipsPyTorch/__init__.py
+  cef34d8fe655bbae 1-21
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_3.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_double4x3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/mixed_product.inl
+  cef34d8fe655bbae 1-15
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00093.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/all_3.js
+  cef34d8fe655bbae 1-59
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00162_source.html
+  cef34d8fe655bbae 1-842
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat3x2.hpp
+  cef34d8fe655bbae 1-167
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_vec2.inl
+  cef34d8fe655bbae 1-915
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00198.html
+  cef34d8fe655bbae 1-118
+metrics_large.py
+  cef34d8fe655bbae 1-118
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_10.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/groups_5.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00345.html
+  cef34d8fe655bbae 1-171
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/func_geometric.inl
+  cef34d8fe655bbae 1-243
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/search.js
+  cef34d8fe655bbae 1-791
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00292.html
+  cef34d8fe655bbae 1-202
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint2x2.hpp
+  cef34d8fe655bbae 1-38
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_double1_precision.hpp
+  cef34d8fe655bbae 1-36
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_uint3.hpp
+  cef34d8fe655bbae 1-18
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_0.js
+  cef34d8fe655bbae 1-4
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/vector_int4_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/round.hpp
+  cef34d8fe655bbae 1-160
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00232_source.html
+  cef34d8fe655bbae 1-111
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00244.html
+  cef34d8fe655bbae 1-97
+submodules/diff-gaussian-rasterization/third_party/glm/glm/mat3x3.hpp
+  cef34d8fe655bbae 1-8
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00172_source.html
+  cef34d8fe655bbae 1-272
+utils/loss_utils.py
+  cef34d8fe655bbae 1-133
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00070.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00088.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtc/integer.inl
+  cef34d8fe655bbae 1-33
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_force_ctor_init.cpp
+  cef34d8fe655bbae 1-139
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_matrix_cross_product.cpp
+  cef34d8fe655bbae 1-9
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00058_source.html
+  cef34d8fe655bbae 1-140
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_2.html
+  cef34d8fe655bbae 1-26
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00293.html
+  cef34d8fe655bbae 1-247
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint2x2_sized.hpp
+  cef34d8fe655bbae 1-70
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00306.html
+  cef34d8fe655bbae 1-95
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00066.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/files_13.js
+  cef34d8fe655bbae 1-54
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00372.html
+  cef34d8fe655bbae 1-420
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_major_storage.inl
+  cef34d8fe655bbae 1-166
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float3x3_precision.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00052.html
+  cef34d8fe655bbae 1-108
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00157_source.html
+  cef34d8fe655bbae 1-127
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/string_cast.hpp
+  cef34d8fe655bbae 1-46
+submodules/diff-gaussian-rasterization/third_party/glm/test/core/core_setup_precision.cpp
+  cef34d8fe655bbae 1-58
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_quaternion.cpp
+  cef34d8fe655bbae 1-107
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/functions_4.js
+  cef34d8fe655bbae 1-55
+submodules/diff-gaussian-rasterization/third_party/glm/util/glm.natvis
+  cef34d8fe655bbae 1-555
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/number_precision.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/matrix_query.hpp
+  cef34d8fe655bbae 1-77
+submodules/diff-gaussian-rasterization/third_party/glm/test/ext/ext_matrix_clip_space.cpp
+  cef34d8fe655bbae 1-13
+submodules/diff-gaussian-rasterization/third_party/glm/test/gtx/gtx_simd_vec4.cpp
+  cef34d8fe655bbae 1-71
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00017_source.html
+  cef34d8fe655bbae 1-282
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/search/typedefs_9.js
+  cef34d8fe655bbae 1-5
+submodules/diff-gaussian-rasterization/third_party/glm/glm/detail/type_mat4x4_simd.inl
+  cef34d8fe655bbae 1-6
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_uint4x2_sized.hpp
+  cef34d8fe655bbae 1-49
+submodules/diff-gaussian-rasterization/third_party/glm/test/perf/perf_matrix_transpose.cpp
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00012_source.html
+  cef34d8fe655bbae 1-136
+submodules/diff-gaussian-rasterization/third_party/glm/glm/gtx/string_cast.inl
+  cef34d8fe655bbae 1-492
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/jquery.js
+  cef34d8fe655bbae 1-68
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00182.html
+  cef34d8fe655bbae 1-169
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00031_source.html
+  cef34d8fe655bbae 1-161
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/matrix_float3x2_precision.hpp
+  cef34d8fe655bbae 1-31
+submodules/diff-gaussian-rasterization/third_party/glm/glm/ext/quaternion_trigonometric.hpp
+  cef34d8fe655bbae 1-63
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00219.html
+  cef34d8fe655bbae 1-123
+submodules/diff-gaussian-rasterization/third_party/glm/CMakeLists.txt
+  cef34d8fe655bbae 1-45
+utils/image_utils.py
+  cef34d8fe655bbae 1-76
+submodules/simple-knn/setup.py
+  cef34d8fe655bbae 1-35
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00019_source.html
+  cef34d8fe655bbae 1-150
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00092.html
+  cef34d8fe655bbae 1-117
+submodules/diff-gaussian-rasterization/third_party/glm/doc/api/a00112_source.html
+  cef34d8fe655bbae 1-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "a49d1a7c332375912eb16244a3b0ed02f3d245b4",
+  "prompts": {
+    "cef34d8fe655bbae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6dd862df-ec50-4921-b2cf-974dde787da4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Z-Insta360",
+      "messages": [],
+      "total_additions": 289380,
+      "total_deletions": 0,
+      "accepted_lines": 288951,
+      "overriden_lines": 0
+    }
+  }
+}
