@@ -1,0 +1,57 @@
+# 由 tools/gen_360_yamls.py 从本模板生成 config_360/360roam_<scene>.yaml
+# 占位符 <DATA_ROOT>/360Roam / cafe 会被替换为数据根与场景目录名
+# 数据来源: 360Roam（ERP 全景，6080x3040；带原生 scene.ply 点云）
+# 转换前置: python tools/convert_360roam_to_colmap.py --root <DATA_ROOT>/360Roam
+
+model_params: {
+    model_config: {
+        name: "GaussianModel",
+        kwargs: {}
+    },
+    sh_degree: 3,
+    source_path: "data/cafe",
+    model_path: "./output/360roam_cafe",
+    images: "imgs",
+    alpha_masks: "",
+    use_alpha_masks: False,
+    use_sky_masks: False,
+    use_depth: False,
+    resolution: 4,
+    white_background: False,
+    data_device: "cpu",
+    eval: True,
+    skybox_num: 0,
+    skybox_locked: True,
+    default_camera_type: 3,
+}
+
+pipeline_params: {
+    convert_SHs_python: False,
+    compute_cov3D_python: False,
+    debug: False
+}
+
+optim_params: {
+    iterations: 30_000,
+    position_lr_init: 0.00016,
+    position_lr_final: 0.0000016,
+    position_lr_delay_mult: 0.01,
+    position_lr_max_steps: 30_000,
+    feature_lr: 0.0025,
+    opacity_lr: 0.025,
+    scaling_lr: 0.005,
+    rotation_lr: 0.001,
+    percent_dense: 0.01,
+    lambda_dssim: 0.2,
+    densification_interval: 100,
+    opacity_reset_interval: 3000,
+    densify_from_iter: 500,
+    densify_until_iter: 15_000,
+    densify_grad_threshold: 0.0002,
+    densify_grad_abs_threshold: 0.0004,
+    prune_by_extent: true,
+    depth_l1_weight_init: 0,
+    depth_l1_weight_final: 0,
+    max_cache_num: 512,
+    skip_bottom_ratio: 0.063,  # OmniGS 360Roam 默认：裁掉底部 6.3% 行（南极失真/三脚架）
+}

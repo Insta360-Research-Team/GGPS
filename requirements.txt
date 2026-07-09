@@ -1,0 +1,21 @@
+lightning>=2.4            # torch 2.8 需要新版 lightning（本机实测 2.6.0）；旧 2.0.9 装不上 torch 2.8
+lightning[pytorch-extra]
+splines==0.3.0
+plyfile==0.8.1
+numpy==1.26.2
+tensorboard
+wandb
+tqdm
+jax
+icecream
+einops
+transforms3d
+imageio
+viser==0.1.29
+opencv-python==4.8.*
+joblib                     # tools/make_depth_scale.py 深度尺度对齐的并行化
+# CUDA 子模块请单独用 --no-build-isolation 编译，勿在此自动安装
+# （pip install -r 默认的 build isolation 会拉到不匹配的 torch，导致 ABI/架构不对，5090 上尤甚）。
+# 安装命令见 README「d. 安装依赖」：
+#   export CUDA_HOME=/usr/local/cuda-12.8; export TORCH_CUDA_ARCH_LIST="12.0"
+#   pip install --no-build-isolation ./submodules/diff-gaussian-rasterization ./submodules/simple-knn

@@ -1,0 +1,72 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.cover
+.hypothesis/
+.ipynb_checkpoints/
+
+# 虚拟环境 / 本地工具
+.venv/
+venv/
+env/
+
+# --- 训练与实验输出（README 约定）---
+output/
+output0/
+data/
+logs/
+logs_*/
+wandb/
+tensorboard*/
+*.log
+nohup.out
+
+# diff-gaussian-rasterization / simple-knn 编译产物（根目录安装时常见）
+submodules/diff-gaussian-rasterization/build/
+submodules/diff-gaussian-rasterization/dist/
+submodules/diff-gaussian-rasterization/*.egg-info/
+submodules/simple-knn/build/
+submodules/simple-knn/dist/
+submodules/simple-knn/*.egg-info/
+
+# 光栅调试快照（CityGS/3DGS 扩展在异常时可能写出）
+snapshot_fw.dump
+snapshot_bw.dump
+
+# --- IDE / 系统 ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# --- 模型权重 / checkpoint（output/ 之外的防御，防止误提交大文件）---
+*.pth
+*.pt
+*.ckpt
+
+# --- 编译中间产物 ---
+*.o
+*.obj
+
+# --- 光栅调试快照（泛化 snapshot_fw/bw.dump）---
+snapshot_*.dump
+
+# --- 临时 / 备份文件 ---
+*.bak
+*.orig
+*.tmp
+*.rej
