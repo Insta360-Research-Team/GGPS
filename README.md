@@ -7,7 +7,7 @@ Weijian Chen<sup>1,2</sup>, Weibo Yao<sup>1,3</sup>, Yuhang Zhang<sup>1</sup>, X
 <sup>1</sup>Insta360 Research &nbsp; <sup>2</sup>Sun Yat-sen University &nbsp; <sup>3</sup>South China University of Technology<br>
 <sup>4</sup>University of Chinese Academy of Sciences &nbsp; <sup>5</sup>Harbin Engineering University &nbsp; <sup>6</sup>Wuhan University
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.08769)
 [![Homepage](https://img.shields.io/badge/Project-Homepage-1a73e8?logo=googlechrome&logoColor=white)](https://insta360-research-team.github.io/GGPS-Website/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-ffcc00)](#)
 
@@ -257,16 +257,16 @@ This work was conducted while **Weijian Chen** and **Weibo Yao** were interns at
 
 ## 📌 Citation
 
-If this project helps your research, please cite it (paper details will be updated upon formal publication):
+If this project helps your research, please cite it:
 
 ```bibtex
-@inproceedings{panolog,
+@article{panolog2026,
   title     = {Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction},
   author    = {Chen, Weijian and Yao, Weibo and Zhang, Yuhang and Tang, Xiaolin and
                Wang, Guo and Zhang, Weijun and Gao, Xitong and Chen, Yihao and
                Qin, Hongde and Qi, Lu},
-  booktitle = {arXiv preprint},
-  year      = {2025}
+  journal   = {arXiv preprint arXiv:2607.08769},
+  year      = {2026}
 }
 ```
 
