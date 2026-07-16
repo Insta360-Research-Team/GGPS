@@ -9,7 +9,7 @@ Weijian Chen<sup>1,2</sup>, Weibo Yao<sup>1,3</sup>, Yuhang Zhang<sup>1</sup>, X
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.08769)
 [![Homepage](https://img.shields.io/badge/Project-Homepage-1a73e8?logo=googlechrome&logoColor=white)](https://insta360-research-team.github.io/GGPS-Website/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-ffcc00)](#)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-ffcc00)](https://huggingface.co/Insta360-Research/GGPS)
 
 [English](./README.md) | **中文**
 
