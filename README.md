@@ -32,12 +32,12 @@ Datasets must be prepared by the user (COLMAP / openMVG results). Training outpu
 
 We are actively working towards the open-source release. Progress will be tracked here.
 
-> **Surprise!** On July 15 we will release an **Unreal Engine plugin for 3DGS rendering**, letting you use your own reconstructed models directly inside the engine. A free version with a watermark is provided; a paid version (one-time purchase, no watermark) will be available soon, with the link posted here.
+> **Coming soon!** We will release an **Unreal Engine plugin for 3DGS rendering**, letting you use your own reconstructed models directly inside the engine. The free (watermarked) version will be released once approved; a paid version (one-time purchase, no watermark) will follow, with the link posted here.
 
-- [ ] **2026-07-09** — Full training code.
-- [ ] **2026-07-10** — Two authorized panoramic `.ply` models for reproduction and verification.
-- [ ] **2026-07-15** — Pano360 dataset.
-- [ ] **2026-07-15** — Free (watermarked) rendering plugin; paid version (one-time purchase) available soon, link posted here.
+- [x] **2026-07-09** — Full training code.
+- [x] **2026-07-15** — Pano360 dataset.
+- [ ] **Late July 2026** — Two panoramic `.ply` models for reproduction and verification.
+- [ ] **Free (watermarked) rendering plugin** — the free version will be released once approved; a paid version (one-time purchase, no watermark) will follow, with the link posted here.
 
 > Suggestions and issues are welcome — please open an issue.
 
